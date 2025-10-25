@@ -4,7 +4,7 @@
 Este desafio tem como objetivo **implementar uma infraestrutura automatizada** utilizando o AWS CloudFormation.  
 A proposta é criar e gerenciar recursos na nuvem por meio de templates em YAML ou JSON, aplicando os conceitos de Infraestrutura como Código (IaC), padronização, replicação e segurança.
 
-Durante a prática, o aluno deve explorar a automação do provisionamento de serviços na AWS, simulando cenários reais de implantação e gerenciamento de recursos.
+Durante a prática, foi explorado a automação do provisionamento de serviços na AWS, simulando cenários reais de implantação e gerenciamento de recursos.
 
 ---
 
